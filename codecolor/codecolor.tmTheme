@@ -1152,12 +1152,10 @@
 			</dict>
 		</dict>
 	</array>
-	<key>uuid</key>
-	<string>4C43099A-C325-4F56-BACB-F332209207B0</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.multi_langer_dark</string>
+	<string>vinz.theme.coloTheme</string>
 	<key>author</key>
 	<string>Vincenzo Palazzo</string>
 </dict>
